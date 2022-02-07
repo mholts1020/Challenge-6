@@ -32,9 +32,6 @@ hvPlot Library Installation
 Navigate to your desired location where you would like to save the documents for this application. You can do this by using the cd command followed by a space and the file path inside quotations " file path ". In my example I have gone to Desktop.
 
 
-Clone this project's repository from GitHub using the following command
-
-git clone https://github.com/epocaterrasus/San-Francisco-Housing-Analysis-Proptech.git
 
 5. Opening the file on Jupyter Notebook
 Being in the folder created when you downloaded the repository type jupyter lab, this should open a window in your predetermined browser with Jupyter Lab. In the left corner you can see the files inside the repository, open the san_francisco_housing.ipynb which contains all steps and notes followed to analyze this dataset pair.
